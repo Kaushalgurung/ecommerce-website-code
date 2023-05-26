@@ -1,1 +1,1 @@
-# ecommerce-website-code for freelance work
+# Ecommerce-website-code for freelance work
